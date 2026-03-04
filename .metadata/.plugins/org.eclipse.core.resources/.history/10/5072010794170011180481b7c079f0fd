@@ -1,0 +1,5 @@
+package com.leo.documentservice.config;
+
+public class RestTemplateConfig {
+
+}
